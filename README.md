@@ -15,6 +15,13 @@
 
 ---
 
+## 🎮 Play My Game  
+
+🔥 Try my Tic Tac Toe Game here:  
+👉 https://suryab003.github.io/tic-tac-toe
+
+---
+
 ## 🚀 About Me  
 
 🎯 Aspiring **Azure Data Engineer** passionate about designing scalable data solutions in the cloud.  
