@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 <!-- PROFILE HEADER -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+</p>
+
 <h1 align="center">
   Hi 👋, I'm Surya Bandaru
 </h1>
@@ -12,13 +17,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suryab003&label=Profile%20views&color=0e75b6&style=flat" alt="suryab003" />
 </p>
-
----
-
-## 🎮 Play My Game  
-
-🔥 Try my Tic Tac Toe Game here:  
-👉 https://suryab003.github.io/tic-tac-toe
 
 ---
 
