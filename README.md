@@ -2,13 +2,11 @@
 
 <!-- PROFILE HEADER -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
-</p>
 
-<h1 align="center">
-  Hi 👋, I'm Surya Bandaru
-</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00F7FF&height=200&section=header&text=I'%20m%20Surya%20Bandaru&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <h3 align="center">
   ☁️ Azure Data Engineer | 🔥 PySpark Developer | 📊 Power BI Enthusiast
@@ -16,6 +14,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suryab003&label=Profile%20views&color=0e75b6&style=flat" alt="suryab003" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 ---
