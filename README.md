@@ -8,9 +8,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00F7FF&height=200&section=header&text=I'%20m%20Surya%20Bandaru&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-  ☁️ Azure Data Engineer | 🔥 PySpark Developer | 📊 Power BI Enthusiast
-</h3>
+# SAP ABAP Developer | 1.6 Years Experience
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suryab003&label=Profile%20views&color=0e75b6&style=flat" alt="suryab003" />
@@ -22,107 +22,113 @@
 
 ---
 
-## 🚀 About Me  
+## 👨‍💻 About Me
 
-🎯 Aspiring **Azure Data Engineer** passionate about designing scalable data solutions in the cloud.  
-💡 Skilled in building **end-to-end ETL pipelines**, processing big data, and creating impactful dashboards.  
-🏅 Microsoft Certified in **Azure Data Fundamentals (DP-900)**  
+- SAP ABAP Developer with 2 years of experience
+- Strong knowledge of ABAP programming
+- Experience with Open SQL and database operations
+- Experience with Internal Tables and Work Areas
+- ALV Reports
+- Classical and Interactive Reports
+- Selection Screens
+- Modularization Techniques
+- Debugging and Error Handling
+- Object-Oriented ABAP fundamentals
 
----
+## 🛠️ Technical Skills
 
-## 🏆 Certification  
+### SAP Technologies
+- SAP ABAP
+- Open SQL
+- ABAP Dictionary
+- ALV
+- SAP GUI
+- SE38
+- SE80
+- SE11
+- SE37
+- SE24
+- SE93
 
-🎓 **Microsoft Azure Data Fundamentals (DP-900)**  
-✔ Azure data services  
-✔ Relational & non-relational data  
-✔ Analytics workloads  
-✔ Cloud data concepts  
+### ABAP Programming
+- Data Types
+- Variables
+- Operators
+- Control Statements
+- Loops
+- Internal Tables
+- Work Areas
+- Structures
+- Field Symbols
+- Modularization
+- Function Modules
+- Classes and Objects
+- Exception Handling
 
----
+### Database
+- Open SQL
+- SELECT
+- INSERT
+- UPDATE
+- MODIFY
+- DELETE
+- JOIN
+- Aggregate Functions
 
-## ☁️ Azure & Data Engineering Stack  
+## 📂 Portfolio Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
-</p>
+### 1. Employee Management System
+Developed an ABAP-based employee management application to retrieve,
+display and process employee information.
 
-- Azure Data Factory  
-- Azure Databricks  
-- PySpark  
-- Azure Data Lake Gen2  
-- Azure Synapse Analytics  
-- SQL  
+**Technologies:**
+- SAP ABAP
+- Open SQL
+- Internal Tables
+- Selection Screens
+- ALV
 
----
+### 2. Sales Order Report
+Developed a report to retrieve sales order information using Open SQL
+and display the results using ALV.
 
-## 💻 Programming & Web Technologies  
+**Concepts Used:**
+- Database joins
+- Internal tables
+- Selection screens
+- ALV reporting
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,angular,html,css,bootstrap" height="55"/>
-</p>
+### 3. Material Information Report
+Created an ABAP report to retrieve material information and display
+formatted results.
 
-- Python  
-- Angular  
-- HTML5  
-- CSS3  
-- Bootstrap  
+**Concepts Used:**
+- Open SQL
+- Internal Tables
+- Work Areas
+- Selection Screens
 
----
+## 📊 ABAP Concepts Demonstrated
 
-## 📊 Data Visualization  
+| Concept | Example |
+|---|---|
+| Reports | Employee Report |
+| Open SQL | Customer/Sales Data |
+| Internal Tables | Employee Processing |
+| ALV | Sales Order Report |
+| Modularization | Function Modules |
+| OOP ABAP | Employee Management |
+| Selection Screens | Dynamic Input |
+| Debugging | Error Handling |
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="55"/>
-</p>
+## 📁 Repository Structure
 
-- Power BI  
-- DAX  
-- Interactive Dashboards  
-- Data Storytelling  
-
----
-
-## 🔥 What I Build  
-
-✔ End-to-End Azure Data Pipelines  
-✔ Big Data Processing using Databricks  
-✔ Optimized SQL Queries  
-✔ Real-time Analytics Dashboards  
-✔ Responsive Web Applications  
-
----
-
-## 📫 Connect With Me  
-
-<p align="center">
-  <a href="mailto:bandarusurya03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/surya-bandaru0333" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryab003&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryab003&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 📊 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryab003&layout=compact&theme=tokyonight"/>
-</p>
-
----
+```text
+reports/
+open-sql/
+internal-tables/
+alv/
+modularization/
+oops-abap/
+projects/
 
