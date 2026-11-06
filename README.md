@@ -8,8 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00F7FF&height=200&section=header&text=I'%20m%20Surya%20Bandaru&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# SAP ABAP Developer | 1.6 Years Experience
-
+### 🚀 Aspiring Software Engineer  | Azure Data Engineer
 
 
 <p align="center">
@@ -21,105 +20,28 @@
 </p>
 
 ---
+### About Me..
+I'm a passionate and motivated Software Engineer looking for opportunities to start my career in the software industry. I enjoy learning new technologies, solving problems, and building projects.
 
-## 👨‍💻 About Me
+### 🛠️ Technical Skills
+- **Programming:** , Python, JavaScript
+- **Frontend:** HTML, CSS, Angular, React
+- **Database:** SQL advance
+- **Tools:** Git, GitHub, VS Code
 
-- SAP ABAP Developer with 2 years of experience
-- Strong knowledge of ABAP programming
-- Experience with Open SQL and database operations
-- Experience with Internal Tables and Work Areas
-- ALV Reports
-- Classical and Interactive Reports
-- Selection Screens
-- Modularization Techniques
-- Debugging and Error Handling
-- Object-Oriented ABAP fundamentals
+### 🎯 Currently Learning
+Azure Data Engineer
 
-## 🛠️ Technical Skills
+### 📂 Projects
+- Check out my repositories to explore my projects and coding practice.
 
-### SAP Technologies
-- SAP ABAP
-- Open SQL
-- ABAP Dictionary
-- ALV
-- SAP GUI
-- SE38
-- SE80
-- SE11
-- SE37
-- SE24
-- SE93
+### 🤝 Connect With Me
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/surya-bandaru0333/)
+- **GitHub:** [@suryab003](https://github.com/suryab003)
 
-### ABAP Programming
-- Data Types
-- Variables
-- Operators
-- Control Statements
-- Loops
-- Internal Tables
-- Work Areas
-- Structures
-- Field Symbols
-- Modularization
-- Function Modules
-- Classes and Objects
-- Exception Handling
+---
 
-### Database
-- Open SQL
-- SELECT
-- INSERT
-- UPDATE
-- MODIFY
-- DELETE
-- JOIN
-- Aggregate Functions
 
-## 📂 Portfolio Projects
-
-### 1. Employee Management System
-Developed an ABAP-based employee management application to retrieve,
-display and process employee information.
-
-**Technologies:**
-- SAP ABAP
-- Open SQL
-- Internal Tables
-- Selection Screens
-- ALV
-
-### 2. Sales Order Report
-Developed a report to retrieve sales order information using Open SQL
-and display the results using ALV.
-
-**Concepts Used:**
-- Database joins
-- Internal tables
-- Selection screens
-- ALV reporting
-
-### 3. Material Information Report
-Created an ABAP report to retrieve material information and display
-formatted results.
-
-**Concepts Used:**
-- Open SQL
-- Internal Tables
-- Work Areas
-- Selection Screens
-
-## 📊 ABAP Concepts Demonstrated
-
-| Concept | Example |
-|---|---|
-| Reports | Employee Report |
-| Open SQL | Customer/Sales Data |
-| Internal Tables | Employee Processing |
-| ALV | Sales Order Report |
-| Modularization | Function Modules |
-| OOP ABAP | Employee Management |
-| Selection Screens | Dynamic Input |
-| Debugging | Error Handling |
 
 ## 📁 Repository Structure
 
